@@ -1,0 +1,20 @@
+ # Delphi Bank Automation Suite
+Automated testing framework for Delphi Bank's digital banking services — built for reliability, coverage, and clarity.
+
+## 🏢 About Delphi Bank
+Delphi Bank is a division of Bendigo and Adelaide Bank, founded in 2012 and headquartered in Melbourne, Australia. It offers:
+- Transactional, savings, investment, and personal banking accounts
+- Home and personal loans
+- Community-focused financial services with Hellenic cultural roots
+
+## 🔍 Project Scope
+This repository includes:
+- End-to-end test cases for online banking workflows
+- Shadow DOM traversal utilities for frontend validation
+- Performance benchmarks for login, fund transfer, and loan application modules
+
+## 🧪 Tech Stack
+- Java + Selenium WebDriver
+- TestNG + Cucumber
+- Maven + GitHub Actions
+- Custom Java utilities for multi-level shadow DOM traversal
